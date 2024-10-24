@@ -51,3 +51,11 @@ All contact information is stored in a local JSON file.
   6. Exit
   ```
 - **Input the corresponding number to perform an action. For example, choose 1 to add a contact, and the system will prompt you to input the details (name, phone, and email).**
+
+## Built With
+- **Node.js**
+- **Readline**
+- **JSON for data storage**
+
+## Contributing
+If you would like to contribute, feel free to fork the repository and submit a pull request.

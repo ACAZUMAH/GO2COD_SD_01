@@ -16,3 +16,23 @@ All contact information is stored in a local JSON file.
   - Remove a contact by name.
 - **Search Contacts**: 
   - Search for a specific contact by name.
+
+## Installation
+
+1. **Clone repository**:
+   ```bash
+   git clone https://github.com/ACAZUMAH/GO2COD_SD_01.git
+   ```
+
+
+2. **Navigate to project directory**:
+   ```bash
+   cd GO2COD_SD_01
+   ```
+
+3. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+
+4. **Run application**:

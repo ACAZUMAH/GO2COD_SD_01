@@ -36,3 +36,18 @@ All contact information is stored in a local JSON file.
    ```
 
 4. **Run application**:
+   ```bash
+   npm start
+   ```
+
+## Usage
+- **Upon running the program, you'll be presented with a menu**:
+  ```bash
+  1. Add contact
+  2. View contacts
+  3. Edit contact
+  4. Delete contact
+  5. Search contact
+  6. Exit
+  ```
+- **Input the corresponding number to perform an action. For example, choose 1 to add a contact, and the system will prompt you to input the details (name, phone, and email).**

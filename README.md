@@ -54,6 +54,7 @@ All contact information is stored in a local JSON file.
 
 ## Built With
 - **Node.js**
+- **Typescript**
 - **Readline**
 - **JSON for data storage**
 
